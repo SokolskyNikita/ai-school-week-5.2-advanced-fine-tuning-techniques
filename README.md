@@ -25,4 +25,4 @@ To get started, follow these steps:
 5. **HuggingFace Personal Token:**
    - You will need your HuggingFace personal access token. If you don't have one, create an account on [HuggingFace](https://huggingface.co/) and generate a token from your account settings.
 
-By following these steps, you will be able to successfully fine-tune open-source models using HuggingFace.
+Additionally, consider using [LightningAI](https://lightning.ai/), a Colab-like environment offering 22 hours of free GPU usage on its free tier. It’s a great option if you need something faster while staying within budget.
